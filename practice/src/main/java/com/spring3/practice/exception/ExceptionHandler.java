@@ -1,3 +1,4 @@
+/*
 package com.spring3.practice.exception;
 
 import org.springframework.http.HttpStatus;
@@ -13,3 +14,4 @@ public class ExceptionHandler {
         return ProblemDetail.forStatusAndDetail(HttpStatus.NOT_FOUND,"Employee with id not found");
     }
 }
+*/
